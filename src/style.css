@@ -183,6 +183,7 @@ span {
 
 .taskblock span {
     width: 100%;
+    word-break: break-all;
     font-size: 20px;
 }
 
